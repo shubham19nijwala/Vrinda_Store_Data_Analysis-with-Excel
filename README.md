@@ -1,4 +1,6 @@
 # Vrinda_Store_Data_Analysis-with-Excel
+![Screenshot (4)](https://github.com/shubham19nijwala/Vrinda_Store_Data_Analysis-with-Excel/assets/130289158/b37ce92a-c9cb-436e-aeb1-bdc9c7724b6e)
+
 
 ## Vrinda Store's annual report for 2022
 
